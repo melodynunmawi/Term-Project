@@ -4,6 +4,7 @@
 
 # <ins>**Installation**</ins>
 
+https://github.com/melodynunmawi/Term-Project.git
 
 
 Install the required packages:
