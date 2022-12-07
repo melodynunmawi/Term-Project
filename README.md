@@ -1,4 +1,5 @@
-Complete By Melody Nunmawi(A01027681) && jonathan eng (A01167027)
+## Complete By Melody Nunmawi(A01027681) && jonathan eng (A01167027)
+
 # <ins>**Installation**</ins>
 
 Clone the repo: `git clone https://github.com/Summry/2520-Reminder-App.git`
