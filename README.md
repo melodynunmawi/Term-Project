@@ -4,7 +4,7 @@
 
 # <ins>**Installation**</ins>
 
-Clone the repo: `git clone https://github.com/Summry/2520-Reminder-App.git`
+
 
 Install the required packages:
 
