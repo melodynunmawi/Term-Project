@@ -1,4 +1,6 @@
-## Complete By Melody Nunmawi(A01027681) && jonathan eng (A01167027)
+
+# Acit 2520 Final Project
+  Complete By Melody Nunmawi(A01027681) && jonathan eng (A01167027)
 
 # <ins>**Installation**</ins>
 
