@@ -1,0 +1,27 @@
+<div class="container">
+  <div class="logout-header">
+    <h1 class="page-header">Reminders</h1>
+    <form action="/logout" method="POST">
+      <button type="submit" class="btn btn-danger">Logout</button>
+    </form>
+  </div>
+
+  <ul class="list-group">
+    <% reminders.forEach(function (reminderItem) { %>
+      <li class="list-group-item">
+        <strong>
+          <%= reminderItem.title %>:
+        </strong>
+        <%= reminderItem.description %>
+          || Completed:
+          <% if (reminderItem.completed==true) { %>
+            <span class="badge badge-success">True</span>
+            <% } else if (reminderItem.completed==false) { %>
+              <span class="badge badge-danger">False</span>
+              <% } %>
+                <a class="pull-right" href=<%="/reminder/" + reminderItem.id %>>View</a>
+      </li>
+      <% }) %>
+  </ul>
+
+</div>
